@@ -6,7 +6,7 @@ pronouns: she/her
 located_in: Cologne, Germany
 currently_learning: ["Full Stack Web & App Development @ WBS Coding School"]
 experience: ["10yrs Buying and Management in Retail | eCom", "Project Management", "Team Leader"]
-hobbies: ["Cycling | Yoga ", "Music" | DJing", "Food | Cooking"]
+hobbies: ["Cycling | Functional Training | Yoga ", "Music" | DJing", "Food | Cooking"]
 ```
 
 
