@@ -6,7 +6,7 @@ pronouns: she/her
 located_in: Cologne, Germany
 how to reach me: 
 currently_learning: ["Full Stack Web & App Development @ WBS Coding School"]
-hobbies: ["Cycling ", "Music", "DJing (yes, I love Electronic Music", ""]
+hobbies: ["Cycling | Yoga ", "Music" | DJing (yes, I love Electronic Music)", "Food | Cooking"]
 ```
 
 
