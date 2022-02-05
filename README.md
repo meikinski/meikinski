@@ -5,6 +5,7 @@ name: Meike Huettl
 pronouns: she/her
 located_in: Cologne, Germany
 currently_learning: ["Full Stack Web & App Development @ WBS Coding School"]
+experience: ["10yrs in Retail | eCom", "Project Management", "Team Leader"]
 hobbies: ["Cycling | Yoga ", "Music" | DJing", "Food | Cooking"]
 ```
 
